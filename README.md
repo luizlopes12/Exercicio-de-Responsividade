@@ -3,6 +3,7 @@
 ## **Página fictícia**
  Treinando responsividade em uma página de captura
  Exercicio utilizando o Mailchimp para a captura de email, nome e estado. 
+ 
  Coloquei media queries para melhorar a responsividade do site.
  
  
